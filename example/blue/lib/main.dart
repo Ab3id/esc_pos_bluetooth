@@ -1,4 +1,3 @@
-import 'dart:io';
 import 'dart:typed_data';
 
 import 'package:esc_pos_bluetooth/esc_pos_bluetooth_updated.dart';
